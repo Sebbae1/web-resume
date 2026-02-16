@@ -1,7 +1,7 @@
 # Web Resume
-## Author
+## Author:
 Sebastian Jaculbe
-## Credits
+## Credits:
 The internet
 ## Created and Updated:
 Created: February 15th, 2026
