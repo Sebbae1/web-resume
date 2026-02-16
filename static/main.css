@@ -1,0 +1,34 @@
+/*
+    Author: Sebastian Jaculbe
+    Created: February 15th, 2026
+    Updated: February 15th, 2026
+*/
+
+html, body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+    border-bottom: 3px solid black;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+}
+
+section {
+    margin-left: 290px;
+    margin-right: 250px;
+}
+
+div {
+    position: relative;
+    margin-left: 200px;
+}
+
+ul {
+    margin-top: 5px;
+}
